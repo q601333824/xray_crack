@@ -1,0 +1,4 @@
+根据自己电脑系统下载xray 32位或64位 压缩包
+将xray主程序命名为xray.exe
+cray.exe、xray-license.lic 置于xray.exe同目录
+以后运行用cray.exe代替xray.exe即可
