@@ -1,4 +1,7 @@
-¸ù¾İ×Ô¼ºµçÄÔÏµÍ³ÏÂÔØxray 32Î»»ò64Î» Ñ¹Ëõ°ü
-½«xrayÖ÷³ÌĞòÃüÃûÎªxray.exe
-cray.exe¡¢xray-license.lic ÖÃÓÚxray.exeÍ¬Ä¿Â¼
-ÒÔºóÔËĞĞÓÃcray.exe´úÌæxray.exe¼´¿É
+xrayé«˜çº§ç‰ˆæœ¬ç ´è§£é€šç”¨å¯åŠ¨å™¨
+
+1.æ ¹æ®è‡ªå·±ç”µè„‘ç³»ç»Ÿä¸‹è½½xray 32ä½æˆ–64ä½ å‹ç¼©åŒ…
+2.å°†xrayä¸»ç¨‹åºå‘½åä¸ºxray.exe
+3.cray.exeã€xray-license.lic ç½®äºxray.exeåŒç›®å½•
+4.æœ€åç®¡ç†å‘˜è¿è¡Œç”¨cray.exeä»£æ›¿xray.exeå³å¯
+5.å¯åŠ¨å™¨åŸç†å‚è€ƒæ–‡ç« :https://mp.weixin.qq.com/s/KfPIPHSjK815G_IXKtcImQ
